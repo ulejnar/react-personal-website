@@ -1,0 +1,47 @@
+/*nav {
+  background-color:darkgrey;
+  color: white;
+  
+  margin-bottom:0px;
+  padding-left:30px;
+  text-align: center;
+  width:100%
+}
+nav ul {
+  padding: 5px;
+  margin:0px
+}
+
+nav li {
+  padding-right: 15px;
+  display: inline-block;
+  
+}
+
+
+nav a {
+  text-decoration: none;
+  color:white;
+  font-size: 18px;
+}
+
+nav a:hover {
+  color: red;
+}
+nav a.active {
+  color: orange;
+}*/
+@media (min-width: 768px){.navbar-expand-md .navbar-collapse {
+    flex-direction: row-reverse;
+  }
+}
+
+
+nav {
+  margin-bottom: 3rem;
+}
+.bg-light {
+  background-color: rgb(252, 245, 245);
+}
+
+
