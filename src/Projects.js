@@ -11,7 +11,7 @@ function Project() {
     <div className="container">
       <div className="row"> 
       {projects.map((p, idx) => (
-        <div className="col-md-6 col-lg-4" key={idx}>
+        <div className="col-md-6 col-lg-4" key={idx} >
           <ProjectCard  project={p}/>
         </div>
       ))} 

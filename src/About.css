@@ -1,0 +1,14 @@
+p {
+  
+  background-image: url("https://media.istockphoto.com/photos/white-marble-texture-background-with-detailed-structure-high-bright-picture-id1157329161?b=1&k=6&m=1157329161&s=170667a&w=0&h=KnMNNRjKbC7dQ9tJsxtD5V7UcW7YxWUGzeRjz5U5R2E=");
+  background-repeat:no-repeat;
+  background-size: cover;
+  padding: 1rem;
+}
+
+/* body {
+  background-image: url("background.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+ 
+} */

@@ -8,14 +8,16 @@ import {
 import About from "./About";
 import Projects from "./Projects";
 import Contact from "./Contact";
+import Home from "./Home";
 
 
 function Routes() {
 
   return (
     <Switch>
+
       <Route exact path="/">
-        <About />
+        <Home />
       </Route>
 
       <Route exact path="/about">

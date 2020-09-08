@@ -27,8 +27,8 @@ const projects = [
     name:"Personal website",
     technologies:"React, React-Router, Bootstrap, Forntend", 
     description: "I designed my webiste to be a sinle page application using React. My goal was to have a page with a simple design and making its content easy to navigate.", 
-    github:"github.com", 
-    demo:"heroku.com"
+    github:"https://github.com/ulejnar/react-personal-website", 
+    demo:"https://ulejnar.github.io/react-personal-website/"
   }, 
 
   { 
@@ -36,8 +36,8 @@ const projects = [
     name:"Jeopardy",
     technologies:"JavaScript, jQuery, axios, external APIs", 
     description: "A Jeopardy-like game, and one of my first Javascript projects in Rithm that uses axios, external APIs, and jQuery. Click on a question mark to reveal a question, then click again to see the answer. Hit the 'Restart' button to get new categories and questions. Note: I can't share the repo for this project because this was part of an assessment", 
-    github:"github.com", 
-    demo:"heroku.com"
+    github:"github", 
+    demo:"http://towering-rings.surge.sh/"
   }, 
   
   {
@@ -45,8 +45,8 @@ const projects = [
     name:"Memory card game",
     technologies:"Javascript, CSS, HTML", 
     description: "Card-based memory game using HTML, CSS, and JavaScript that I built before attending Rithm school when I was first learning CSS and HTML.", 
-    github:"github.com", 
-    demo:"heroku.com"
+    github:"https://github.com/ulejnar/matchingGame", 
+    demo:"https://ulejnar.github.io/matchingGame/"
   }
 ]
 

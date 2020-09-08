@@ -8,7 +8,7 @@ import { faGithubSquare, faLinkedin} from '@fortawesome/free-brands-svg-icons';
 function Contact() {
   
     return (
-      <div className="container">
+      <div className="container contactBackground">
         <h3 className="h2 text-center mb-3">KEEP IN TOUCH</h3>
           <div className="row">
             <div className="col-3">

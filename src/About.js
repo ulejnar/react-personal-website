@@ -11,11 +11,8 @@ function About() {
     <div className="container-fluid" >
       <div className="container ">
       <div className="row ">
-        <div className="col-7">
-          <h2>Welcome</h2>
-          <p>
-            Hello, my name is Ulrika. I'm a Bay Area-based software engineer searching for new opportunities. For the past two years I mostly focused on Java programming and this summer I graduated from Rithm School's Immersive Full Stack Software Engineering course. At Rithm, I learned how to create full-stack web applications, with a focus on JavaScript, Python, Flask, SQL, Node and React.
-          </p>
+      <div className="col-1"></div>
+        <div className="col-10">
           <p>
             I always enjoyed math and problem solving but I never considered software engineering as a possible career path because female programers were extremely rare when I was a college student. During my graduate studies I got an opportunity to work on a climate change research but sadly I had to decline because good coding skills were one of the prerequisites. Around that time I got determined to learn coding.</p>
           <p>
@@ -27,15 +24,6 @@ function About() {
           <p>
             Besides immersing myself in web development, I enjoy hiking, canoeing, swimming, traveling, creative writing and the company of my family and friends.
           </p>
-            
-         
-          
-          
-         
-        </div>
-        <div className="col-1"></div>
-        <div className="col-4">
-          <img src={photo} className="img-fluid w-100 rounded-lg shadow p-3 mb-5 bg-white rounded"/>
         </div>
       </div>
       </div>
