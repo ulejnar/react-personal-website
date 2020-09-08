@@ -1,21 +1,14 @@
-import React from 'react';
-import {
-  Switch,
-  Route,
-  Redirect
-} from 'react-router-dom';
+import React from "react";
+import { Switch, Route, Redirect } from "react-router-dom";
 
 import About from "./About";
 import Projects from "./Projects";
 import Contact from "./Contact";
 import Home from "./Home";
 
-
 function Routes() {
-
   return (
     <Switch>
-
       <Route exact path="/">
         <Home />
       </Route>
