@@ -2,7 +2,7 @@ import warbler from "../Photos/Warbler.png";
 import memory from "../Photos/Memory_game.png";
 import jeopardy from "../Photos/Jeopardy.png";
 import jobly from "../Photos/Jobly.png";
-import website from "../Photos/Website.png";
+import website from "../Photos/website.jpg";
 
 const projects = [
   {
